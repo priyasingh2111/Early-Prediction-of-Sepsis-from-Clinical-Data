@@ -9,4 +9,4 @@ Conducted in-depth analysis, addressing challenges such as correlation, missing 
 The files for both training_setA and training_setB are quite huge and I am unable to upload here on Github.<br>
 When you the jupyter or pythin is run, it will automatically convert all the files from these datasets in a single file and then a lot of data cleaning and preprocessing is required due to data imbalance.
 <br><br>
-<img src="https://github.com/priyasingh2111/Early-Prediction-of-Sepsis-from-Clinical-Data/blob/main/data/FeatureSpace.png">
+<img src="https://github.com/priyasingh2111/Early-Prediction-of-Sepsis-from-Clinical-Data/blob/main/data/FeatureSpace.png" title="Feature Space">
